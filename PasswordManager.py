@@ -63,11 +63,11 @@ while True:
                 pw = "Password03"
                 password_entry(top_text, pw)
             if key_event.key_number is 4:
-                top_text = "CoretechsDirect"
+                top_text = "Empty"
                 pw = "Password04"
                 password_entry(top_text, pw)
             if key_event.key_number is 5:
-                top_text = "Buildium"
+                top_text = "Empty"
                 pw = "Password05"
                 password_entry(top_text, pw)
             if key_event.key_number is 6:
